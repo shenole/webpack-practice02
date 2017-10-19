@@ -1,0 +1,22 @@
+{
+  "name": "webpack-practice02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenole/webpack-practice02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenole/webpack-practice02/issues"
+  },
+  "homepage": "https://github.com/shenole/webpack-practice02#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
